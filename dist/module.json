@@ -1,7 +1,7 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "cursed",
+  "title": "Cursed",
+  "description": "Module used for learning purposes",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
@@ -19,18 +19,12 @@
       "discord": "discordID#0001"
     }
   ],
-  "dependencies": [
-
-  ],
-  "conflicts": [
-
-  ],
+  "dependencies": [],
+  "conflicts": [],
   "esmodules": [
-    "module.js"
+    "cursed.js"
   ],
-  "scripts": [
-
-  ],
+  "scripts": [],
   "styles": [
     "/styles/module.css"
   ],
